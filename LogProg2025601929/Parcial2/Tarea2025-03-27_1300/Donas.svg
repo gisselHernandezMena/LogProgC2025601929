@@ -1,0 +1,366 @@
+<svg width="263px" height="847px"
+ viewBox="0.00 0.00 262.52 846.80" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 842.8)">
+<!-- id_fa01724c_4bff_4fe2_9048_d8a5f9fd0347 -->
+<g id="id_fa01724c_4bff_4fe2_9048_d8a5f9fd0347#Begin" class="node">
+<title>id_fa01724c_4bff_4fe2_9048_d8a5f9fd0347</title>
+<g id="a_id_fa01724c_4bff_4fe2_9048_d8a5f9fd0347#Begin"><a xlink:title="Begin">
+<ellipse fill="#8de4ff" stroke="#00799e" stroke-width="0.5" cx="90" cy="-824.4" rx="36" ry="14.4"/>
+<text text-anchor="middle" x="90" y="-820.12" font-family="Courier New" font-size="12.00" fill="#982b13">Begin</text>
+</a>
+</g>
+</g>
+<!-- id_27c71282_2999_4c43_8714_19267194bf36 -->
+<g id="id_27c71282_2999_4c43_8714_19267194bf36#Declare" class="node">
+<title>id_27c71282_2999_4c43_8714_19267194bf36</title>
+<g id="a_id_27c71282_2999_4c43_8714_19267194bf36#Declare"><a xlink:title="Precio: Integer = 10">
+<polygon fill="#015692" stroke="#002a3a" stroke-width="0.5" points="140.76,-771.3 39.24,-771.3 39.24,-742.5 140.76,-742.5 140.76,-771.3"/>
+<text text-anchor="middle" x="90" y="-752.62" font-family="Courier New" font-size="12.00" fill="white">Precio = 10</text>
+</a>
+</g>
+</g>
+<!-- id_fa01724c_4bff_4fe2_9048_d8a5f9fd0347&#45;&gt;id_27c71282_2999_4c43_8714_19267194bf36 -->
+<g id="id_fa01724c_4bff_4fe2_9048_d8a5f9fd0347@fun&#45;main" class="edge">
+<title>id_fa01724c_4bff_4fe2_9048_d8a5f9fd0347:s&#45;&gt;id_27c71282_2999_4c43_8714_19267194bf36:n</title>
+<g id="a_id_fa01724c_4bff_4fe2_9048_d8a5f9fd0347@fun&#45;main"><a xlink:title=" ">
+<path fill="none" stroke="#0a1931" stroke-width="2" d="M90,-810.4C90,-810.4 90,-793.39 90,-781.69"/>
+<polygon fill="#0a1931" stroke="#0a1931" stroke-width="2" points="92.8,-781.9 90,-773.9 87.2,-781.9 92.8,-781.9"/>
+</a>
+</g>
+</g>
+<!-- id_66673ead_a359_4871_8d47_8df28963a6d6 -->
+<g id="id_66673ead_a359_4871_8d47_8df28963a6d6#Declare" class="node">
+<title>id_66673ead_a359_4871_8d47_8df28963a6d6</title>
+<g id="a_id_66673ead_a359_4871_8d47_8df28963a6d6#Declare"><a xlink:title="Cant: Integer = 0">
+<polygon fill="#015692" stroke="#002a3a" stroke-width="0.5" points="128.88,-703.8 51.12,-703.8 51.12,-675 128.88,-675 128.88,-703.8"/>
+<text text-anchor="middle" x="90" y="-685.12" font-family="Courier New" font-size="12.00" fill="white">Cant = 0</text>
+</a>
+</g>
+</g>
+<!-- id_27c71282_2999_4c43_8714_19267194bf36&#45;&gt;id_66673ead_a359_4871_8d47_8df28963a6d6 -->
+<g id="id_27c71282_2999_4c43_8714_19267194bf36@fun&#45;main" class="edge">
+<title>id_27c71282_2999_4c43_8714_19267194bf36:s&#45;&gt;id_66673ead_a359_4871_8d47_8df28963a6d6:n</title>
+<g id="a_id_27c71282_2999_4c43_8714_19267194bf36@fun&#45;main"><a xlink:title=" ">
+<path fill="none" stroke="#0a1931" stroke-width="2" d="M90,-742.9C90,-742.9 90,-725.89 90,-714.19"/>
+<polygon fill="#0a1931" stroke="#0a1931" stroke-width="2" points="92.8,-714.4 90,-706.4 87.2,-714.4 92.8,-714.4"/>
+</a>
+</g>
+</g>
+<!-- id_2bc20b35_acb2_4fd0_baa1_d7930c24da4a -->
+<g id="id_2bc20b35_acb2_4fd0_baa1_d7930c24da4a#Input" class="node">
+<title>id_2bc20b35_acb2_4fd0_baa1_d7930c24da4a</title>
+<g id="a_id_2bc20b35_acb2_4fd0_baa1_d7930c24da4a#Input"><a xlink:title="Cant">
+<polygon fill="#015692" stroke="#002a3a" stroke-width="0.5" points="68.98,-607.5 111.02,-607.5 126,-636.3 54,-636.3 68.98,-607.5"/>
+<text text-anchor="middle" x="90" y="-617.62" font-family="Courier New" font-size="12.00" fill="white">Cant</text>
+</a>
+</g>
+</g>
+<!-- id_66673ead_a359_4871_8d47_8df28963a6d6&#45;&gt;id_2bc20b35_acb2_4fd0_baa1_d7930c24da4a -->
+<g id="id_66673ead_a359_4871_8d47_8df28963a6d6@fun&#45;main" class="edge">
+<title>id_66673ead_a359_4871_8d47_8df28963a6d6:s&#45;&gt;id_2bc20b35_acb2_4fd0_baa1_d7930c24da4a:n</title>
+<g id="a_id_66673ead_a359_4871_8d47_8df28963a6d6@fun&#45;main"><a xlink:title=" ">
+<path fill="none" stroke="#0a1931" stroke-width="2" d="M90,-675.4C90,-675.4 90,-658.39 90,-646.69"/>
+<polygon fill="#0a1931" stroke="#0a1931" stroke-width="2" points="92.8,-646.9 90,-638.9 87.2,-646.9 92.8,-646.9"/>
+</a>
+</g>
+</g>
+<!-- id_52ed57cc_6a20_4941_8ce4_e10e0c0ac798 -->
+<g id="id_52ed57cc_6a20_4941_8ce4_e10e0c0ac798#Declare" class="node">
+<title>id_52ed57cc_6a20_4941_8ce4_e10e0c0ac798</title>
+<g id="a_id_52ed57cc_6a20_4941_8ce4_e10e0c0ac798#Declare"><a xlink:title="Desc: Integer = 0">
+<polygon fill="#015692" stroke="#002a3a" stroke-width="0.5" points="128.88,-568.8 51.12,-568.8 51.12,-540 128.88,-540 128.88,-568.8"/>
+<text text-anchor="middle" x="90" y="-550.12" font-family="Courier New" font-size="12.00" fill="white">Desc = 0</text>
+</a>
+</g>
+</g>
+<!-- id_2bc20b35_acb2_4fd0_baa1_d7930c24da4a&#45;&gt;id_52ed57cc_6a20_4941_8ce4_e10e0c0ac798 -->
+<g id="id_2bc20b35_acb2_4fd0_baa1_d7930c24da4a@fun&#45;main" class="edge">
+<title>id_2bc20b35_acb2_4fd0_baa1_d7930c24da4a:s&#45;&gt;id_52ed57cc_6a20_4941_8ce4_e10e0c0ac798:n</title>
+<g id="a_id_2bc20b35_acb2_4fd0_baa1_d7930c24da4a@fun&#45;main"><a xlink:title=" ">
+<path fill="none" stroke="#0a1931" stroke-width="2" d="M90,-607.9C90,-607.9 90,-590.89 90,-579.19"/>
+<polygon fill="#0a1931" stroke="#0a1931" stroke-width="2" points="92.8,-579.4 90,-571.4 87.2,-579.4 92.8,-579.4"/>
+</a>
+</g>
+</g>
+<!-- id_c3184a1b_46b0_4f86_a367_42c5b04920b8 -->
+<g id="id_c3184a1b_46b0_4f86_a367_42c5b04920b8#Input" class="node">
+<title>id_c3184a1b_46b0_4f86_a367_42c5b04920b8</title>
+<g id="a_id_c3184a1b_46b0_4f86_a367_42c5b04920b8#Input"><a xlink:title="Desc">
+<polygon fill="#015692" stroke="#002a3a" stroke-width="0.5" points="68.98,-472.5 111.02,-472.5 126,-501.3 54,-501.3 68.98,-472.5"/>
+<text text-anchor="middle" x="90" y="-482.63" font-family="Courier New" font-size="12.00" fill="white">Desc</text>
+</a>
+</g>
+</g>
+<!-- id_52ed57cc_6a20_4941_8ce4_e10e0c0ac798&#45;&gt;id_c3184a1b_46b0_4f86_a367_42c5b04920b8 -->
+<g id="id_52ed57cc_6a20_4941_8ce4_e10e0c0ac798@fun&#45;main" class="edge">
+<title>id_52ed57cc_6a20_4941_8ce4_e10e0c0ac798:s&#45;&gt;id_c3184a1b_46b0_4f86_a367_42c5b04920b8:n</title>
+<g id="a_id_52ed57cc_6a20_4941_8ce4_e10e0c0ac798@fun&#45;main"><a xlink:title=" ">
+<path fill="none" stroke="#0a1931" stroke-width="2" d="M90,-540.4C90,-540.4 90,-523.39 90,-511.69"/>
+<polygon fill="#0a1931" stroke="#0a1931" stroke-width="2" points="92.8,-511.9 90,-503.9 87.2,-511.9 92.8,-511.9"/>
+</a>
+</g>
+</g>
+<!-- id_81649e22_0b33_4f00_94a3_bef11c841e26 -->
+<g id="id_81649e22_0b33_4f00_94a3_bef11c841e26#If" class="node">
+<title>id_81649e22_0b33_4f00_94a3_bef11c841e26</title>
+<g id="a_id_81649e22_0b33_4f00_94a3_bef11c841e26#If"><a xlink:title="Desc&gt;=50">
+<polygon fill="#ffd166" stroke="#8f6400" stroke-width="0.5" points="90,-437.4 40.32,-419.4 90,-401.4 139.68,-419.4 90,-437.4"/>
+<text text-anchor="middle" x="90" y="-415.13" font-family="Courier New" font-size="12.00">Desc&gt;=50</text>
+</a>
+</g>
+</g>
+<!-- id_c3184a1b_46b0_4f86_a367_42c5b04920b8&#45;&gt;id_81649e22_0b33_4f00_94a3_bef11c841e26 -->
+<g id="id_c3184a1b_46b0_4f86_a367_42c5b04920b8@fun&#45;main" class="edge">
+<title>id_c3184a1b_46b0_4f86_a367_42c5b04920b8:s&#45;&gt;id_81649e22_0b33_4f00_94a3_bef11c841e26:n</title>
+<g id="a_id_c3184a1b_46b0_4f86_a367_42c5b04920b8@fun&#45;main"><a xlink:title=" ">
+<path fill="none" stroke="#0a1931" stroke-width="2" d="M90,-472.9C90,-472.9 90,-458.68 90,-448.24"/>
+<polygon fill="#0a1931" stroke="#0a1931" stroke-width="2" points="92.8,-448.4 90,-440.4 87.2,-448.4 92.8,-448.4"/>
+</a>
+</g>
+</g>
+<!-- true_dummy_up_id_81649e22_0b33_4f00_94a3_bef11c841e26 -->
+<g id="node8" class="node">
+<title>true_dummy_up_id_81649e22_0b33_4f00_94a3_bef11c841e26</title>
+<ellipse fill="black" stroke="black" stroke-width="0.5" cx="180" cy="-419.4" rx="0" ry="0"/>
+</g>
+<!-- id_81649e22_0b33_4f00_94a3_bef11c841e26&#45;&gt;true_dummy_up_id_81649e22_0b33_4f00_94a3_bef11c841e26 -->
+<g id="id_81649e22_0b33_4f00_94a3_bef11c841e26@id_94a5c573_8c12_4d5d_861a_8175e04a73ac" class="edge">
+<title>id_81649e22_0b33_4f00_94a3_bef11c841e26:e&#45;&gt;true_dummy_up_id_81649e22_0b33_4f00_94a3_bef11c841e26</title>
+<g id="a_id_81649e22_0b33_4f00_94a3_bef11c841e26@id_94a5c573_8c12_4d5d_861a_8175e04a73ac"><a xlink:title=" ">
+<path fill="none" stroke="#0a1931" stroke-width="2" d="M140,-419.4C140,-419.4 177.54,-419.4 179.89,-419.4"/>
+</a>
+</g>
+<g id="a_id_81649e22_0b33_4f00_94a3_bef11c841e26@id_94a5c573_8c12_4d5d_861a_8175e04a73ac&#45;taillabel"><a xlink:title=" ">
+<text text-anchor="middle" x="152" y="-422.65" font-family="Courier New" font-size="10.00" fill="forestgreen">true</text>
+</a>
+</g>
+</g>
+<!-- false_dummy_up_id_81649e22_0b33_4f00_94a3_bef11c841e26 -->
+<g id="node9" class="node">
+<title>false_dummy_up_id_81649e22_0b33_4f00_94a3_bef11c841e26</title>
+<ellipse fill="black" stroke="black" stroke-width="0.5" cx="0" cy="-419.4" rx="0" ry="0"/>
+</g>
+<!-- id_81649e22_0b33_4f00_94a3_bef11c841e26&#45;&gt;false_dummy_up_id_81649e22_0b33_4f00_94a3_bef11c841e26 -->
+<g id="id_81649e22_0b33_4f00_94a3_bef11c841e26@id_b514d1f7_0f68_460a_8367_fc5e8af5b033" class="edge">
+<title>id_81649e22_0b33_4f00_94a3_bef11c841e26:w&#45;&gt;false_dummy_up_id_81649e22_0b33_4f00_94a3_bef11c841e26</title>
+<g id="a_id_81649e22_0b33_4f00_94a3_bef11c841e26@id_b514d1f7_0f68_460a_8367_fc5e8af5b033"><a xlink:title=" ">
+<path fill="none" stroke="#0a1931" stroke-width="2" d="M40,-419.4C40,-419.4 2.46,-419.4 0.11,-419.4"/>
+</a>
+</g>
+<g id="a_id_81649e22_0b33_4f00_94a3_bef11c841e26@id_b514d1f7_0f68_460a_8367_fc5e8af5b033&#45;taillabel"><a xlink:title=" ">
+<text text-anchor="middle" x="25" y="-422.65" font-family="Courier New" font-size="10.00" fill="red">false</text>
+</a>
+</g>
+</g>
+<!-- id_06eb5402_1be5_41ca_b50a_0fdc99d06a19 -->
+<g id="id_06eb5402_1be5_41ca_b50a_0fdc99d06a19#Output" class="node">
+<title>id_06eb5402_1be5_41ca_b50a_0fdc99d06a19</title>
+<g id="a_id_06eb5402_1be5_41ca_b50a_0fdc99d06a19#Output"><a xlink:title="&quot;Total a pagar&quot;">
+<polygon fill="#015692" stroke="#002a3a" stroke-width="0.5" points="223.52,-366.3 136.48,-366.3 105.48,-337.5 254.52,-337.5 223.52,-366.3"/>
+<text text-anchor="middle" x="180" y="-347.63" font-family="Courier New" font-size="12.00" fill="white">&quot;Total a pagar&quot;</text>
+</a>
+</g>
+</g>
+<!-- true_dummy_up_id_81649e22_0b33_4f00_94a3_bef11c841e26&#45;&gt;id_06eb5402_1be5_41ca_b50a_0fdc99d06a19 -->
+<g id="id_81649e22_0b33_4f00_94a3_bef11c841e26@id_94a5c573_8c12_4d5d_861a_8175e04a73ac" class="edge">
+<title>true_dummy_up_id_81649e22_0b33_4f00_94a3_bef11c841e26&#45;&gt;id_06eb5402_1be5_41ca_b50a_0fdc99d06a19:n</title>
+<g id="a_id_81649e22_0b33_4f00_94a3_bef11c841e26@id_94a5c573_8c12_4d5d_861a_8175e04a73ac"><a xlink:title=" ">
+<path fill="none" stroke="#0a1931" stroke-width="2" d="M180,-419.25C180,-417.05 180,-391.85 180,-376.88"/>
+<polygon fill="#0a1931" stroke="#0a1931" stroke-width="2" points="182.8,-376.9 180,-368.9 177.2,-376.9 182.8,-376.9"/>
+</a>
+</g>
+</g>
+<!-- false_dummy_down_id_81649e22_0b33_4f00_94a3_bef11c841e26 -->
+<g id="node12" class="node">
+<title>false_dummy_down_id_81649e22_0b33_4f00_94a3_bef11c841e26</title>
+<ellipse fill="black" stroke="black" stroke-width="0.5" cx="0" cy="-284.4" rx="0" ry="0"/>
+</g>
+<!-- false_dummy_up_id_81649e22_0b33_4f00_94a3_bef11c841e26&#45;&gt;false_dummy_down_id_81649e22_0b33_4f00_94a3_bef11c841e26 -->
+<g id="id_81649e22_0b33_4f00_94a3_bef11c841e26@id_b514d1f7_0f68_460a_8367_fc5e8af5b033" class="edge">
+<title>false_dummy_up_id_81649e22_0b33_4f00_94a3_bef11c841e26&#45;&gt;false_dummy_down_id_81649e22_0b33_4f00_94a3_bef11c841e26:n</title>
+<g id="a_id_81649e22_0b33_4f00_94a3_bef11c841e26@id_b514d1f7_0f68_460a_8367_fc5e8af5b033"><a xlink:title=" ">
+<path fill="none" stroke="#0a1931" stroke-width="2" d="M0,-419.3C0,-415.21 0,-284.4 0,-284.4"/>
+</a>
+</g>
+</g>
+<!-- true_dummy_down_id_81649e22_0b33_4f00_94a3_bef11c841e26 -->
+<g id="node11" class="node">
+<title>true_dummy_down_id_81649e22_0b33_4f00_94a3_bef11c841e26</title>
+<ellipse fill="black" stroke="black" stroke-width="0.5" cx="180" cy="-284.4" rx="0" ry="0"/>
+</g>
+<!-- id_06eb5402_1be5_41ca_b50a_0fdc99d06a19&#45;&gt;true_dummy_down_id_81649e22_0b33_4f00_94a3_bef11c841e26 -->
+<g id="id_06eb5402_1be5_41ca_b50a_0fdc99d06a19@id_94a5c573_8c12_4d5d_861a_8175e04a73ac" class="edge">
+<title>id_06eb5402_1be5_41ca_b50a_0fdc99d06a19:s&#45;&gt;true_dummy_down_id_81649e22_0b33_4f00_94a3_bef11c841e26:n</title>
+<g id="a_id_06eb5402_1be5_41ca_b50a_0fdc99d06a19@id_94a5c573_8c12_4d5d_861a_8175e04a73ac"><a xlink:title=" ">
+<path fill="none" stroke="#0a1931" stroke-width="2" d="M180,-337.9C180,-337.9 180,-284.4 180,-284.4"/>
+</a>
+</g>
+</g>
+<!-- end_id_81649e22_0b33_4f00_94a3_bef11c841e26 -->
+<g id="end_id_81649e22_0b33_4f00_94a3_bef11c841e26#IfEnd" class="node flowrun&#45;not&#45;selectable">
+<title>end_id_81649e22_0b33_4f00_94a3_bef11c841e26</title>
+<g id="a_end_id_81649e22_0b33_4f00_94a3_bef11c841e26#IfEnd"><a xlink:title=" ">
+<ellipse fill="#ffd166" stroke="#8f6400" stroke-width="0.5" cx="90" cy="-284.4" rx="7.2" ry="7.2"/>
+</a>
+</g>
+</g>
+<!-- true_dummy_down_id_81649e22_0b33_4f00_94a3_bef11c841e26&#45;&gt;end_id_81649e22_0b33_4f00_94a3_bef11c841e26 -->
+<g id="id_06eb5402_1be5_41ca_b50a_0fdc99d06a19@id_94a5c573_8c12_4d5d_861a_8175e04a73ac" class="edge">
+<title>true_dummy_down_id_81649e22_0b33_4f00_94a3_bef11c841e26&#45;&gt;end_id_81649e22_0b33_4f00_94a3_bef11c841e26</title>
+<g id="a_id_06eb5402_1be5_41ca_b50a_0fdc99d06a19@id_94a5c573_8c12_4d5d_861a_8175e04a73ac"><a xlink:title=" ">
+<path fill="none" stroke="#0a1931" stroke-width="2" d="M179.93,-284.4C178,-284.4 133.69,-284.4 108,-284.4"/>
+<polygon fill="#0a1931" stroke="#0a1931" stroke-width="2" points="108.15,-281.6 100.15,-284.4 108.15,-287.2 108.15,-281.6"/>
+</a>
+</g>
+</g>
+<!-- false_dummy_down_id_81649e22_0b33_4f00_94a3_bef11c841e26&#45;&gt;end_id_81649e22_0b33_4f00_94a3_bef11c841e26 -->
+<g id="id_81649e22_0b33_4f00_94a3_bef11c841e26@id_b514d1f7_0f68_460a_8367_fc5e8af5b033" class="edge">
+<title>false_dummy_down_id_81649e22_0b33_4f00_94a3_bef11c841e26&#45;&gt;end_id_81649e22_0b33_4f00_94a3_bef11c841e26</title>
+<g id="a_id_81649e22_0b33_4f00_94a3_bef11c841e26@id_b514d1f7_0f68_460a_8367_fc5e8af5b033"><a xlink:title=" ">
+<path fill="none" stroke="#0a1931" stroke-width="2" d="M0.07,-284.4C2,-284.4 46.31,-284.4 72,-284.4"/>
+<polygon fill="#0a1931" stroke="#0a1931" stroke-width="2" points="71.85,-287.2 79.85,-284.4 71.85,-281.6 71.85,-287.2"/>
+</a>
+</g>
+</g>
+<!-- id_cd68e04e_46df_43c2_a370_32ff5199ef5b -->
+<g id="id_cd68e04e_46df_43c2_a370_32ff5199ef5b#If" class="node">
+<title>id_cd68e04e_46df_43c2_a370_32ff5199ef5b</title>
+<g id="a_id_cd68e04e_46df_43c2_a370_32ff5199ef5b#If"><a xlink:title="Desc&gt;=30">
+<polygon fill="#ffd166" stroke="#8f6400" stroke-width="0.5" points="90,-234.9 40.32,-216.9 90,-198.9 139.68,-216.9 90,-234.9"/>
+<text text-anchor="middle" x="90" y="-212.63" font-family="Courier New" font-size="12.00">Desc&gt;=30</text>
+</a>
+</g>
+</g>
+<!-- end_id_81649e22_0b33_4f00_94a3_bef11c841e26&#45;&gt;id_cd68e04e_46df_43c2_a370_32ff5199ef5b -->
+<g id="end_id_81649e22_0b33_4f00_94a3_bef11c841e26@fun&#45;main" class="edge">
+<title>end_id_81649e22_0b33_4f00_94a3_bef11c841e26:s&#45;&gt;id_cd68e04e_46df_43c2_a370_32ff5199ef5b:n</title>
+<g id="a_end_id_81649e22_0b33_4f00_94a3_bef11c841e26@fun&#45;main"><a xlink:title=" ">
+<path fill="none" stroke="#0a1931" stroke-width="2" d="M90,-277.4C90,-277.4 90,-258.21 90,-245.62"/>
+<polygon fill="#0a1931" stroke="#0a1931" stroke-width="2" points="92.8,-245.9 90,-237.9 87.2,-245.9 92.8,-245.9"/>
+</a>
+</g>
+</g>
+<!-- true_dummy_up_id_cd68e04e_46df_43c2_a370_32ff5199ef5b -->
+<g id="node15" class="node">
+<title>true_dummy_up_id_cd68e04e_46df_43c2_a370_32ff5199ef5b</title>
+<ellipse fill="black" stroke="black" stroke-width="0.5" cx="180" cy="-216.9" rx="0" ry="0"/>
+</g>
+<!-- id_cd68e04e_46df_43c2_a370_32ff5199ef5b&#45;&gt;true_dummy_up_id_cd68e04e_46df_43c2_a370_32ff5199ef5b -->
+<g id="id_cd68e04e_46df_43c2_a370_32ff5199ef5b@id_18a76b45_001f_456e_87fc_4158ca64c9bf" class="edge">
+<title>id_cd68e04e_46df_43c2_a370_32ff5199ef5b:e&#45;&gt;true_dummy_up_id_cd68e04e_46df_43c2_a370_32ff5199ef5b</title>
+<g id="a_id_cd68e04e_46df_43c2_a370_32ff5199ef5b@id_18a76b45_001f_456e_87fc_4158ca64c9bf"><a xlink:title=" ">
+<path fill="none" stroke="#0a1931" stroke-width="2" d="M140,-216.9C140,-216.9 177.54,-216.9 179.89,-216.9"/>
+</a>
+</g>
+<g id="a_id_cd68e04e_46df_43c2_a370_32ff5199ef5b@id_18a76b45_001f_456e_87fc_4158ca64c9bf&#45;taillabel"><a xlink:title=" ">
+<text text-anchor="middle" x="152" y="-220.15" font-family="Courier New" font-size="10.00" fill="forestgreen">true</text>
+</a>
+</g>
+</g>
+<!-- false_dummy_up_id_cd68e04e_46df_43c2_a370_32ff5199ef5b -->
+<g id="node16" class="node">
+<title>false_dummy_up_id_cd68e04e_46df_43c2_a370_32ff5199ef5b</title>
+<ellipse fill="black" stroke="black" stroke-width="0.5" cx="0" cy="-216.9" rx="0" ry="0"/>
+</g>
+<!-- id_cd68e04e_46df_43c2_a370_32ff5199ef5b&#45;&gt;false_dummy_up_id_cd68e04e_46df_43c2_a370_32ff5199ef5b -->
+<g id="id_cd68e04e_46df_43c2_a370_32ff5199ef5b@id_8585b07a_8619_4af2_a251_a3a95d80a810" class="edge">
+<title>id_cd68e04e_46df_43c2_a370_32ff5199ef5b:w&#45;&gt;false_dummy_up_id_cd68e04e_46df_43c2_a370_32ff5199ef5b</title>
+<g id="a_id_cd68e04e_46df_43c2_a370_32ff5199ef5b@id_8585b07a_8619_4af2_a251_a3a95d80a810"><a xlink:title=" ">
+<path fill="none" stroke="#0a1931" stroke-width="2" d="M40,-216.9C40,-216.9 2.46,-216.9 0.11,-216.9"/>
+</a>
+</g>
+<g id="a_id_cd68e04e_46df_43c2_a370_32ff5199ef5b@id_8585b07a_8619_4af2_a251_a3a95d80a810&#45;taillabel"><a xlink:title=" ">
+<text text-anchor="middle" x="25" y="-220.15" font-family="Courier New" font-size="10.00" fill="red">false</text>
+</a>
+</g>
+</g>
+<!-- id_c7444062_ab28_4d30_a15c_80a07f13857c -->
+<g id="id_c7444062_ab28_4d30_a15c_80a07f13857c#Output" class="node">
+<title>id_c7444062_ab28_4d30_a15c_80a07f13857c</title>
+<g id="a_id_c7444062_ab28_4d30_a15c_80a07f13857c#Output"><a xlink:title="&quot;Total a pagar&quot;">
+<polygon fill="#015692" stroke="#002a3a" stroke-width="0.5" points="223.52,-163.8 136.48,-163.8 105.48,-135 254.52,-135 223.52,-163.8"/>
+<text text-anchor="middle" x="180" y="-145.12" font-family="Courier New" font-size="12.00" fill="white">&quot;Total a pagar&quot;</text>
+</a>
+</g>
+</g>
+<!-- true_dummy_up_id_cd68e04e_46df_43c2_a370_32ff5199ef5b&#45;&gt;id_c7444062_ab28_4d30_a15c_80a07f13857c -->
+<g id="id_cd68e04e_46df_43c2_a370_32ff5199ef5b@id_18a76b45_001f_456e_87fc_4158ca64c9bf" class="edge">
+<title>true_dummy_up_id_cd68e04e_46df_43c2_a370_32ff5199ef5b&#45;&gt;id_c7444062_ab28_4d30_a15c_80a07f13857c:n</title>
+<g id="a_id_cd68e04e_46df_43c2_a370_32ff5199ef5b@id_18a76b45_001f_456e_87fc_4158ca64c9bf"><a xlink:title=" ">
+<path fill="none" stroke="#0a1931" stroke-width="2" d="M180,-216.75C180,-214.55 180,-189.35 180,-174.38"/>
+<polygon fill="#0a1931" stroke="#0a1931" stroke-width="2" points="182.8,-174.4 180,-166.4 177.2,-174.4 182.8,-174.4"/>
+</a>
+</g>
+</g>
+<!-- false_dummy_down_id_cd68e04e_46df_43c2_a370_32ff5199ef5b -->
+<g id="node19" class="node">
+<title>false_dummy_down_id_cd68e04e_46df_43c2_a370_32ff5199ef5b</title>
+<ellipse fill="black" stroke="black" stroke-width="0.5" cx="0" cy="-81.9" rx="0" ry="0"/>
+</g>
+<!-- false_dummy_up_id_cd68e04e_46df_43c2_a370_32ff5199ef5b&#45;&gt;false_dummy_down_id_cd68e04e_46df_43c2_a370_32ff5199ef5b -->
+<g id="id_cd68e04e_46df_43c2_a370_32ff5199ef5b@id_8585b07a_8619_4af2_a251_a3a95d80a810" class="edge">
+<title>false_dummy_up_id_cd68e04e_46df_43c2_a370_32ff5199ef5b&#45;&gt;false_dummy_down_id_cd68e04e_46df_43c2_a370_32ff5199ef5b:n</title>
+<g id="a_id_cd68e04e_46df_43c2_a370_32ff5199ef5b@id_8585b07a_8619_4af2_a251_a3a95d80a810"><a xlink:title=" ">
+<path fill="none" stroke="#0a1931" stroke-width="2" d="M0,-216.8C0,-212.71 0,-81.9 0,-81.9"/>
+</a>
+</g>
+</g>
+<!-- true_dummy_down_id_cd68e04e_46df_43c2_a370_32ff5199ef5b -->
+<g id="node18" class="node">
+<title>true_dummy_down_id_cd68e04e_46df_43c2_a370_32ff5199ef5b</title>
+<ellipse fill="black" stroke="black" stroke-width="0.5" cx="180" cy="-81.9" rx="0" ry="0"/>
+</g>
+<!-- id_c7444062_ab28_4d30_a15c_80a07f13857c&#45;&gt;true_dummy_down_id_cd68e04e_46df_43c2_a370_32ff5199ef5b -->
+<g id="id_c7444062_ab28_4d30_a15c_80a07f13857c@id_18a76b45_001f_456e_87fc_4158ca64c9bf" class="edge">
+<title>id_c7444062_ab28_4d30_a15c_80a07f13857c:s&#45;&gt;true_dummy_down_id_cd68e04e_46df_43c2_a370_32ff5199ef5b:n</title>
+<g id="a_id_c7444062_ab28_4d30_a15c_80a07f13857c@id_18a76b45_001f_456e_87fc_4158ca64c9bf"><a xlink:title=" ">
+<path fill="none" stroke="#0a1931" stroke-width="2" d="M180,-135.4C180,-135.4 180,-81.9 180,-81.9"/>
+</a>
+</g>
+</g>
+<!-- end_id_cd68e04e_46df_43c2_a370_32ff5199ef5b -->
+<g id="end_id_cd68e04e_46df_43c2_a370_32ff5199ef5b#IfEnd" class="node flowrun&#45;not&#45;selectable">
+<title>end_id_cd68e04e_46df_43c2_a370_32ff5199ef5b</title>
+<g id="a_end_id_cd68e04e_46df_43c2_a370_32ff5199ef5b#IfEnd"><a xlink:title=" ">
+<ellipse fill="#ffd166" stroke="#8f6400" stroke-width="0.5" cx="90" cy="-81.9" rx="7.2" ry="7.2"/>
+</a>
+</g>
+</g>
+<!-- true_dummy_down_id_cd68e04e_46df_43c2_a370_32ff5199ef5b&#45;&gt;end_id_cd68e04e_46df_43c2_a370_32ff5199ef5b -->
+<g id="id_c7444062_ab28_4d30_a15c_80a07f13857c@id_18a76b45_001f_456e_87fc_4158ca64c9bf" class="edge">
+<title>true_dummy_down_id_cd68e04e_46df_43c2_a370_32ff5199ef5b&#45;&gt;end_id_cd68e04e_46df_43c2_a370_32ff5199ef5b</title>
+<g id="a_id_c7444062_ab28_4d30_a15c_80a07f13857c@id_18a76b45_001f_456e_87fc_4158ca64c9bf"><a xlink:title=" ">
+<path fill="none" stroke="#0a1931" stroke-width="2" d="M179.93,-81.9C178,-81.9 133.69,-81.9 108,-81.9"/>
+<polygon fill="#0a1931" stroke="#0a1931" stroke-width="2" points="108.15,-79.1 100.15,-81.9 108.15,-84.7 108.15,-79.1"/>
+</a>
+</g>
+</g>
+<!-- false_dummy_down_id_cd68e04e_46df_43c2_a370_32ff5199ef5b&#45;&gt;end_id_cd68e04e_46df_43c2_a370_32ff5199ef5b -->
+<g id="id_cd68e04e_46df_43c2_a370_32ff5199ef5b@id_8585b07a_8619_4af2_a251_a3a95d80a810" class="edge">
+<title>false_dummy_down_id_cd68e04e_46df_43c2_a370_32ff5199ef5b&#45;&gt;end_id_cd68e04e_46df_43c2_a370_32ff5199ef5b</title>
+<g id="a_id_cd68e04e_46df_43c2_a370_32ff5199ef5b@id_8585b07a_8619_4af2_a251_a3a95d80a810"><a xlink:title=" ">
+<path fill="none" stroke="#0a1931" stroke-width="2" d="M0.07,-81.9C2,-81.9 46.31,-81.9 72,-81.9"/>
+<polygon fill="#0a1931" stroke="#0a1931" stroke-width="2" points="71.85,-84.7 79.85,-81.9 71.85,-79.1 71.85,-84.7"/>
+</a>
+</g>
+</g>
+<!-- id_0a5b7044_d830_4111_8a05_4c63c52475c7 -->
+<g id="id_0a5b7044_d830_4111_8a05_4c63c52475c7#Return" class="node">
+<title>id_0a5b7044_d830_4111_8a05_4c63c52475c7</title>
+<g id="a_id_0a5b7044_d830_4111_8a05_4c63c52475c7#Return"><a xlink:title="End">
+<ellipse fill="#8de4ff" stroke="#00799e" stroke-width="0.5" cx="90" cy="-14.4" rx="36" ry="14.4"/>
+<text text-anchor="middle" x="90" y="-10.12" font-family="Courier New" font-size="12.00" fill="#982b13">End</text>
+</a>
+</g>
+</g>
+<!-- end_id_cd68e04e_46df_43c2_a370_32ff5199ef5b&#45;&gt;id_0a5b7044_d830_4111_8a05_4c63c52475c7 -->
+<g id="end_id_cd68e04e_46df_43c2_a370_32ff5199ef5b@fun&#45;main" class="edge">
+<title>end_id_cd68e04e_46df_43c2_a370_32ff5199ef5b:s&#45;&gt;id_0a5b7044_d830_4111_8a05_4c63c52475c7:n</title>
+<g id="a_end_id_cd68e04e_46df_43c2_a370_32ff5199ef5b@fun&#45;main"><a xlink:title=" ">
+<path fill="none" stroke="#0a1931" stroke-width="2" d="M90,-74.9C90,-74.9 90,-52.92 90,-39.18"/>
+<polygon fill="#0a1931" stroke="#0a1931" stroke-width="2" points="92.8,-39.4 90,-31.4 87.2,-39.4 92.8,-39.4"/>
+</a>
+</g>
+</g>
+</g>
+</svg>
