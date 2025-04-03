@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="grupos"/>
+        <attribute name="authors" value="angyl"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-04-02 06:50:47 p. m."/>
+        <attribute name="created" value="YW5neWw7TEFQVE9QLUpTTkhERzVWOzIwMjUtMDQtMDI7MDY6MDc6MTIgcC4gbS47MzA5Ng=="/>
+        <attribute name="edited" value="YW5neWw7TEFQVE9QLUpTTkhERzVWOzIwMjUtMDQtMDI7MDY6MTc6MTAgcC4gbS47NTtlbTEwMDtBU1VTLUExNTsyMDI1LTA0LTAxOzExOjM2OjEzIHAuIG0uO0dSVVBPIEEgbyBCLmZwcmc7Njg4MQ=="/>
+        <attribute name="edited" value="YW5neWw7TEFQVE9QLUpTTkhERzVWOzIwMjUtMDQtMDI7MDY6NTA6NDcgcC4gbS47MTszMjEw"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nombre" type="String" array="False" size=""/>
+            <assign variable="nombre" expression="&quot;&quot;"/>
+            <declare name="sexo" type="String" array="False" size=""/>
+            <assign variable="sexo" expression="&quot;&quot;"/>
+            <declare name="hombre" type="String" array="False" size=""/>
+            <assign variable="hombre" expression="&quot;&quot;"/>
+            <declare name="mujer" type="String" array="False" size=""/>
+            <assign variable="mujer" expression="&quot;&quot;"/>
+            <declare name="A" type="String" array="False" size=""/>
+            <declare name="N" type="String" array="False" size=""/>
+            <output expression="&quot;Indique su sexo&quot;" newline="True"/>
+            <input variable="sexo"/>
+            <output expression="&quot;Indique su nombre&quot;" newline="True"/>
+            <input variable="nombre"/>
+            <if expression="sexo==mujer AND nombre&gt;&quot;A&quot; OR sexo==hombre AND Nombre&gt;&quot;N&quot;">
+                <then>
+                    <output expression="&quot;Grupo B&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Grupo A&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
