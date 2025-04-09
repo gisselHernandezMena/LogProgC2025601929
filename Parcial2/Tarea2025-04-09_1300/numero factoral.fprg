@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="numero"/>
+        <attribute name="authors" value="angyl"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-04-09 12:19:16 a. m."/>
+        <attribute name="created" value="YW5neWw7TEFQVE9QLUpTTkhERzVWOzIwMjUtMDQtMDg7MDY6NTc6MTggcC4gbS47MzExMw=="/>
+        <attribute name="edited" value="YW5neWw7TEFQVE9QLUpTTkhERzVWOzIwMjUtMDQtMDg7MDc6MDE6MzkgcC4gbS47MTthbmd5bDtMQVBUT1AtSlNOSERHNVY7MjAyNS0wNC0wODswNTo1Mzo1NyBwLiBtLjs2Mzg0"/>
+        <attribute name="edited" value="YW5neWw7TEFQVE9QLUpTTkhERzVWOzIwMjUtMDQtMDk7MTI6MTk6MTYgYS4gbS47MzszMjAy"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="n, factorial" type="Integer" array="False" size=""/>
+            <assign variable="n" expression="0"/>
+            <output expression="&quot;ingresa el numero entero&quot;" newline="True"/>
+            <input variable="n"/>
+            <assign variable="factorial" expression="1"/>
+            <while expression="n&gt;0">
+                <assign variable="factorial" expression="factorial*n"/>
+                <assign variable="n" expression="n-1"/>
+                <output expression="factorial" newline="True"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
